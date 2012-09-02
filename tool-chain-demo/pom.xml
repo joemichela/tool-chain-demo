@@ -72,5 +72,11 @@
             </plugin>
         </plugins>
     </build>
-
+    <scm>
+        <connection>scm:git:ssh://git@github.com:joemichela/tool-chain-demo.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:joemichela/tool-chain-demo.git</developerConnection>
+        <tag>HEAD</tag>
+        <url>https://github.com/joemichela/tool-chain-demo</url>
+        
+    </scm>
 </project>
